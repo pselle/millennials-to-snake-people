@@ -4,7 +4,7 @@ Firefox extension that reveals the _real_ truth behind Millennials.
 
 ## Installation
 
-1. Download the extension [MillnnenialstoSnakePeople.xpi](https://github.com/pselle/millennials-to-snake-people-mozillablob/master/MillennialstoSnakePeople.xpi?raw=true)
+1. [Download the extension](https://github.com/pselle/millennials-to-snake-people/raw/master/%40millennials-to-snake-people-mozilla-1.0.0.xpi)
 2. Open FireFox
 3. Click *Add-ons* from the *Tools* menu and select the *Extensions* tab.
 4. Drag-and-drop the XPI file onto the page.
