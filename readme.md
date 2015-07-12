@@ -8,8 +8,7 @@ Firefox extension that reveals the _real_ truth behind Millennials.
 2. Open FireFox
 3. Click *Add-ons* from the *Tools* menu and select the *Extensions* tab.
 4. Drag-and-drop the XPI file onto the page.
-
-- [Free your mind](https://www.google.com/search?q=Millennials)
+5. [Free your mind](https://www.google.com/search?q=Millennials)
 
 ## Also
 
