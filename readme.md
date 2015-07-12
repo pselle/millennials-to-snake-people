@@ -1,11 +1,11 @@
-# cloud-to-butt-mozilla
+# Millenials to Snake People (for Firefox)
 
-Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
+Derived from the work of Dave Random's [firefox port of](https://github.com/DaveRandom/cloud-to-butt-mozilla) Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
 
 
 ## Installing
 
-Download [CloudToButt.xpi](https://github.com/DaveRandom/cloud-to-butt-mozilla/blob/master/CloudToButt.xpi?raw=true)
+Download [MillenialstoSnakePeople.xpi](https://github.com/pselle/millennials-to-snake-people-mozillablob/master/MillenialstoSnakePeople.xpi?raw=true)
 
 
 ## Building
