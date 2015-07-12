@@ -17,4 +17,4 @@ Firefox extension that reveals the _real_ truth behind Millennials.
 
 ## Thanks
 
-To all the various people who make text replacement apps, and to MDN for their docs.
+To all the various people who make text replacement apps, [Eric Bailey](https://github.com/ericwbailey/millennials-to-snake-people) in particular for uncovering the secret agenda of snake people, and to MDN for their docs.
