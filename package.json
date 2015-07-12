@@ -1,10 +1,9 @@
 {
-  "name": "millennials-to-snake-people-mozilla",
+  "name": "millennials-to-snake-people",
   "version": "1.0.0",
-  "description": "Millenials to Snake People (for Firefox)",
+  "description": "Millennials to Snake People (for Firefox)",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "jpm": "./node_modules/jpm/bin/jpm"
   },
   "main": "index.js",
   "repository": {
@@ -12,7 +11,7 @@
     "url": "https://github.com/pselle/millennials-to-snake-people-mozilla.git"
   },
   "keywords": [
-    "millenials",
+    "millennials",
     "snake",
     "people",
     "firefox",
