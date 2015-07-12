@@ -1,4 +1,4 @@
-# Millenials to Snake People (for Firefox)
+# Millenials to Snake People
 
 Firefox extension that reveals the _real_ truth behind Millennials.
 
