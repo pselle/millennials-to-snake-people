@@ -8,7 +8,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pselle/millennials-to-snake-people-mozilla.git"
+    "url": "https://github.com/pselle/millennials-to-snake-people.git"
   },
   "keywords": [
     "millennials",
@@ -20,14 +20,11 @@
   "author": "Pam Selle",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pselle/millennials-to-snake-people-mozilla/issues"
+    "url": "https://github.com/pselle/millennials-to-snake-people/issues"
   },
    "engines": {
     "firefox": ">=38.0a1",
     "fennec": ">=38.0a1"
   },
-  "homepage": "https://github.com/pselle/millennials-to-snake-people-mozilla",
-  "dependencies": {
-    "jpm": "^1.0.0"
-  }
+  "homepage": "https://github.com/pselle/millennials-to-snake-people"
 }
