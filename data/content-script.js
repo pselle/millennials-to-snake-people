@@ -16,7 +16,22 @@ function walk(rootNode)
 }
 
 function handleText(textNode) {
-  textNode.nodeValue = replaceText(textNode.nodeValue);
+    var text = textNode.wholeText;
+    if(text.search(/millennial/i) >= 0
+        || text.search(/millenial/i) >= 0 // misspelling
+        || text.search(/(mil·len·ni·al|mə-lĕn′ē-əl)/i) >= 0
+        || text.search(/miˈlenēəl/i) >= 0
+        || text.search(/great (depression|recession)/i) >= 0
+        || text.search(/(ows|occupy) movement/i) >= 0
+        || text.search(/helicopter parent/i) >= 0
+        || text.search(/trophy kid/i) >= 0
+        || text.search(/digital native/i) >= 0
+        || text.search(/generation (z|y|we|me|global|next|net|flux|sell|boomerang|peter pan|9\/?11|precarious)/i) >= 0
+        || text.search(/(z|y|we|me|global|next|net|flux|sell|boomerang|peter pan|9\/?11|precarious) generation/i) >= 0
+        || text.search(/tween/i) >= 0
+        || text.search(/Mileurista/i) >= 0) {
+        textNode.nodeValue = replaceText(textNode.nodeValue);
+    }
 }
 
 function replaceText(v)
@@ -84,6 +99,10 @@ function replaceText(v)
         /\bmillennial adult(?:(s)\b(')|s\b)/g,
         "adult snake people$2$1"
     );
+
+     // Definition
+    v = v.replace(/\bmil·len·ni·al\b/g, "sn·a·ke pe·op·le");
+    v = v.replace(/\bmə-lĕn′ē-əl\b/g, "snāk ˈpēpəl");
 
     // Millennial
     v = v.replace(/\bMillennial\b/g, "Snake Person");
